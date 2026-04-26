@@ -30,4 +30,4 @@ Upload your own dataset (CSV) using the sidebar.
 
 ## 📌 Author
 
-Your Name
+Mahlet Tekle
