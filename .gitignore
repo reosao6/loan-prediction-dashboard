@@ -5,4 +5,4 @@ __pycache__/
 .env
 venv/
 data/loan_large_dataset.csv
-desktop.ini
+desktop.inigit add .gitignore
